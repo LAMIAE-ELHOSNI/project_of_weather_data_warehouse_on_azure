@@ -1,0 +1,9 @@
+{
+	"name": "lamiaeelhosni",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aef3a61c-bd22-4345-8da5-e432ea545013",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
